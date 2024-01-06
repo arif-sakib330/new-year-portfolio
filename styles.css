@@ -1,4 +1,9 @@
 /* header */
+*{
+    margin: 0px;
+    padding-right: 0px;
+    
+}
 body {
     font-family: work sans;
 }
