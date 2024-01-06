@@ -30,10 +30,29 @@ body {
 
 .btn {
     color: #005FAC;
-    align-items:end;
     font-size: 20px;
     font-weight: 600;
     padding: 20px 25px;
     margin: 0px 230px 160px 1210px;
+}
+/* main */
 
+.profile-description{
+    color: black;
+}
+.profile{
+    display: flex;
+}
+.profile-pic{
+    padding: 140px 134px 50px 270px;
+}
+.profile-title{
+    font-size: 40px;
+    padding: 370px 400px 24px 134px;
+}
+.profile-description{
+    padding: 0px 322px 16px 134px;
+}
+.check{
+    padding: 0px 390px 0px 170px;
 }
