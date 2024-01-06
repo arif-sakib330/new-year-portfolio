@@ -1,0 +1,39 @@
+/* header */
+body {
+    font-family: work sans;
+}
+
+.header {
+    background-image: url('banner3.png');
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+
+}
+
+.banner-title {
+    color: white;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    padding: 210px 230px  25px 830px;
+}
+
+.banner-description {
+    color: #FFF;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 0px 230px 30px 840px;
+}
+
+.btn {
+    color: #005FAC;
+    align-items:end;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
+    margin: 0px 230px 160px 1210px;
+
+}
