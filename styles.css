@@ -1,9 +1,10 @@
 /* header */
-*{
+* {
     margin: 0px;
     padding-right: 0px;
-    
+
 }
+
 body {
     font-family: work sans;
 }
@@ -43,10 +44,16 @@ body {
 }
 
 /* main */
-.my-pic{
+.profile {
+    width: 1600px;
+    height: 808px;
+}
+
+.my-pic {
     border-radius: 50%;
 }
-.name{
+
+.name {
     background-color: tomato;
     color: #FFF;
     text-align: center;
@@ -81,17 +88,18 @@ body {
 }
 
 .plane-title {
-    padding: 214px 850px 50px;
+    padding: 214px 750px 50px;
     color: #151414;
-    text-align: center;
     font-size: 40px;
-    font-weight: 700;
+    width: 200px;
 }
 
 .plan-work {
     display: flex;
     padding: 0px 230px 135px 230px;
     justify-content: space-between;
+    width: 1140px;
+height: 300px;;
 }
 
 /* call section */
